@@ -4,3 +4,6 @@ output/
 venv/
 pelicanconf.pyc
 .env
+venv
+env
+.idea/
